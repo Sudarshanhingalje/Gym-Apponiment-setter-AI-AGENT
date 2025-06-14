@@ -10,6 +10,8 @@
 # 🏋️ Gym Appointment Setter – AI Agent
 
 This is my first AI-powered agent that helps users **book gym appointments using natural language**. It acts like a smart receptionist that understands your preferred time and finds the next available slot.
+![Screenshot 2025-06-14 104439](https://github.com/user-attachments/assets/bab49e2c-e984-4249-b605-c06859895704)
+
 ![Screenshot 2025-06-14 093554](https://github.com/user-attachments/assets/404402ec-917e-4510-99af-dfcefaf06fd9)
 ![Screenshot 2025-06-14 093521](https://github.com/user-attachments/assets/63c7afa6-d92f-4c7d-8202-c04640646c0d)
 
